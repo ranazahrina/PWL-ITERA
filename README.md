@@ -61,6 +61,7 @@ ubah ke
 |Afifah Dwikirani | 14117105 | https://github.com/AfifahDk/14117105-PWL|
 |M. Alfan Riyadi|14117150|https://github.com/MAlfanR/14117150-PWL|
 |Muhammad Iqbal | 14115014 | https://github.com/baleops/14115014-PWL|
+|Rana Diastri Zahrina | 14117147 | https://github.com/ranazahrina/PWL-14117147 |
 
 |\<namalu>|\<nimlu>|\<linkgitlu>|
 
